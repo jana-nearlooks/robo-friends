@@ -1,0 +1,33 @@
+ 
+  .user-description-card {
+    max-width: 400px;
+    margin: 40px auto; /* Centers the card */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-description-card img {
+    width: 250px;
+    height: 250px;
+
+    margin-bottom: 15px;
+  }
+  
+  .user-description-card h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+
+  
+  .user-description-card .home-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+   cursor: pointer;
+  }
+  
